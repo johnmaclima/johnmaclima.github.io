@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<body>
+
+	<h1 style="text-align:center; ">bem vindo(a) a minha página!</h1>
+
+	<p style="text-align:center;">Olá eu sou aluno do professor marcos castro , na Udemy.</p>
+<center>
+	<a href="https://www.facebook.com/johncflima/" target="_blank">
+	<img src="imagens/perfil.PNG">
+</a>
+</center>
+
+		<body>
+		</html>
